@@ -1,0 +1,8 @@
+Revision history for Perl extension Math::SimpleInterest.
+
+0.01  Thu Jul 12 18:21:03 2001
+	- original version; created by h2xs 1.21 with options
+		-XA -n Math::Simpint
+
+0.02 Thu Aug 2 09:37:00 2001
+	- renamed to Math::SimpleInterest after suggestion by Tim Bunce
