@@ -36,7 +36,7 @@ our @EXPORT = qw(
     pv_dates
 );
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 sub int_yrs {
 	 $_[0] * $_[1] * $_[2] * 0.01;
